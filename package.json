@@ -1,0 +1,45 @@
+{
+	"name": "webstarter-cli",
+	"version": "0.0.0",
+	"description": "A CLI tool for a functional boilerplate for humans.",
+	"homepage": "http://webstarter.io",
+	"repository": "cjpatoilo/webstarter-cli",
+	"license": "MIT",
+	"author": "CJ Patoilo <cjpatoilo@gmail.com>",
+	"main": "index.js",
+	"bin": {
+		"webstarter": "index.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"automation",
+		"boilerplate",
+		"cli",
+		"css",
+		"framework",
+		"milligram",
+		"npm",
+		"package",
+		"starter",
+		"web",
+		"website",
+		"webstarter"
+	],
+	"ignore": [
+		".appveyor.yml",
+		".editorconfig",
+		".github",
+		".gitignore",
+		".travis.yml"
+	],
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"engines": {
+	},
+	"scripts": {
+	}
+}
